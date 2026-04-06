@@ -22,8 +22,6 @@ This repository contains the necessary code to:
 
 ---
 
-## Getting Started
-
 ### Prerequisites
 - **MATLAB R2021a** or later.
 - **Deep Learning Toolbox** (for the CNN).
