@@ -1,7 +1,6 @@
 # Unraveling the dynamics of oxytocin in hypothalamic neurons
 
 [![MATLAB Version](https://img.shields.io/badge/MATLAB-R2021a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 This repository provides a machine learning framework to classify the diffusion modes of neuropeptide-containing vesicles (LDCVs) in neurons. By combining a **1D Convolutional Neural Network (CNN)** and a **Random Forest (RF)** classifier, the pipeline identifies Normal, Subdiffusive, and Superdiffusive motion from single-particle tracking (SPT) data.
