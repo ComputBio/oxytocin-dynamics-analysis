@@ -4,7 +4,6 @@
 
 Repository for the code used in the publication: **"Unraveling the dynamics of oxytocin in hypothalamic neurons"**.
 
-**The code will be released upon final decision regarding the publication.**
 
 ## Overview
 
