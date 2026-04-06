@@ -1,8 +1,9 @@
-# Analysis of Oxytocin Dynamics using Machine Learning
+# Unraveling the dynamics of oxytocin in hypothalamic neurons
 
 [![MATLAB Version](https://img.shields.io/badge/MATLAB-R2020a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
 
-Repository for the code used in the publication: **"Unraveling the dynamics of oxytocin in hypothalamic neurons"**.
+Repository for the code used in the publication: 
+> Aznar-Escolano, B., Egorova, V., Villanueva, J., Gutiérrez, L. M., González-Vélez, V., Gil, A., & Jurado, S. (2025). Unraveling the dynamics of oxytocin in hypothalamic neurons. *Traffic*. DOI: 10.1111/tra.70034
 
 
 ## Overview
@@ -20,3 +21,7 @@ This repository contains the necessary code to:
 ## Contributions
 
 Contributions are welcome. If you find a bug or have a suggestion, please open an issue in this repository.
+
+**Contact:** 
+*   **S. Jurado** (sjurado@umh.es)
+*   **A. Gil** (amparo.gil@unican.es)
